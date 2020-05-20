@@ -1,3 +1,9 @@
+# RijkMuseum - A react app
+
+ This app simply show the rijk museum art as a result of selection from the given drop down list. 
+ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
